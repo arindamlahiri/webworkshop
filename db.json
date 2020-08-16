@@ -1,0 +1,16 @@
+{
+	"users": [
+		{
+			"name": "Arindam Lahiri",
+			"rno": "23",
+			"email": "adamlahiri@gmail.com",
+			"password": "afasfasf"
+		},
+		{
+			"name": "arindam",
+			"rno": "43",
+			"email": "arindam@gmail.com",
+			"password": "asfnaofniaosf"
+		}
+	]
+}
